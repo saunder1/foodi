@@ -8,3 +8,6 @@ https://wordpress.org/themes/spicy-recipe/
 
 plugins:
 https://wpdelicious.com/
+
+video:
+https://youtu.be/PDGP5lbcUdM
