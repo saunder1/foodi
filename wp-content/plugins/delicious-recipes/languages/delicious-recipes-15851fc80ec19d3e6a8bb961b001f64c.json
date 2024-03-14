@@ -1,0 +1,387 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.10.0",
+    "source": "assets\/blocks\/recipe-card-dynamic\/components\/Inspector.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Difficulty": [
+                ""
+            ],
+            "Best Season": [
+                ""
+            ],
+            "Servings": [
+                ""
+            ],
+            "Calories": [
+                ""
+            ],
+            "Ingredients": [
+                ""
+            ],
+            "Gluten Free": [
+                ""
+            ],
+            "Dairy Free": [
+                ""
+            ],
+            "Low Carb": [
+                ""
+            ],
+            "Vegetarian": [
+                ""
+            ],
+            "Organic": [
+                ""
+            ],
+            "Nut Free": [
+                ""
+            ],
+            "Egg Free": [
+                ""
+            ],
+            "High Protein": [
+                ""
+            ],
+            "Keto": [
+                ""
+            ],
+            "Vegan": [
+                ""
+            ],
+            "Beginner": [
+                ""
+            ],
+            "Intermediate": [
+                ""
+            ],
+            "Advanced": [
+                ""
+            ],
+            "Fall": [
+                ""
+            ],
+            "Winter": [
+                ""
+            ],
+            "Summer": [
+                ""
+            ],
+            "Spring": [
+                ""
+            ],
+            "Suitable throughout the year": [
+                ""
+            ],
+            "Cooking Method": [
+                ""
+            ],
+            "Cuisine": [
+                ""
+            ],
+            "Prep Time": [
+                ""
+            ],
+            "Total Time": [
+                ""
+            ],
+            "Cooking Time": [
+                ""
+            ],
+            "Main": [
+                ""
+            ],
+            "Italian": [
+                ""
+            ],
+            "Dessert": [
+                ""
+            ],
+            "Drinks": [
+                ""
+            ],
+            "American": [
+                ""
+            ],
+            "Chinese": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "Indian": [
+                ""
+            ],
+            "Japanese": [
+                ""
+            ],
+            "Mediterranean": [
+                ""
+            ],
+            "Mexican": [
+                ""
+            ],
+            "Southern": [
+                ""
+            ],
+            "Thai": [
+                ""
+            ],
+            "Other world cuisine": [
+                ""
+            ],
+            "Show Difficulty": [
+                ""
+            ],
+            "Difficulty Label": [
+                ""
+            ],
+            "Show Preparation Time": [
+                ""
+            ],
+            "Prep Time Label": [
+                ""
+            ],
+            "Prep Time Value": [
+                ""
+            ],
+            "Display Cooking Time": [
+                ""
+            ],
+            "Cook Time Label": [
+                ""
+            ],
+            "Cook Time Value": [
+                ""
+            ],
+            "Display Resting Time": [
+                ""
+            ],
+            "Rest Time Label": [
+                ""
+            ],
+            "Resting Time": [
+                ""
+            ],
+            "Rest Time Value": [
+                ""
+            ],
+            "Default value: prepTime + cookTime + restTime": [
+                ""
+            ],
+            "Display Total Time": [
+                ""
+            ],
+            "Total Time Label": [
+                ""
+            ],
+            "Total Time Value": [
+                ""
+            ],
+            "Calculate Total Time": [
+                ""
+            ],
+            "Display Servings": [
+                ""
+            ],
+            "Servings Label": [
+                ""
+            ],
+            "Servings Value": [
+                ""
+            ],
+            "Servings Unit": [
+                ""
+            ],
+            "Display Calories": [
+                ""
+            ],
+            "Calories Label": [
+                ""
+            ],
+            "Calories Value": [
+                ""
+            ],
+            "Display Best Season": [
+                ""
+            ],
+            "Best Season Label": [
+                ""
+            ],
+            "Not added": [
+                ""
+            ],
+            "Not displayed": [
+                ""
+            ],
+            "Appetizers": [
+                ""
+            ],
+            "Snacks": [
+                ""
+            ],
+            "Breakfast": [
+                ""
+            ],
+            "Brunch": [
+                ""
+            ],
+            "Dinner": [
+                ""
+            ],
+            "Lunch": [
+                ""
+            ],
+            "Salads": [
+                ""
+            ],
+            "Sides": [
+                ""
+            ],
+            "Soups": [
+                ""
+            ],
+            "Saut\u00e9ing": [
+                ""
+            ],
+            "Stir-frying": [
+                ""
+            ],
+            "Searing": [
+                ""
+            ],
+            "Braising": [
+                ""
+            ],
+            "Stewing": [
+                ""
+            ],
+            "Steaming": [
+                ""
+            ],
+            "Baking": [
+                ""
+            ],
+            "Roasting": [
+                ""
+            ],
+            "Broiling": [
+                ""
+            ],
+            "Grilling": [
+                ""
+            ],
+            "Recipe Card Settings": [
+                ""
+            ],
+            "Recipe Card Image (required)": [
+                ""
+            ],
+            "Upload image for Recipe Card.": [
+                ""
+            ],
+            "Show Print Button": [
+                ""
+            ],
+            "Show Pinterest Button": [
+                ""
+            ],
+            "Show Author": [
+                ""
+            ],
+            "Custom author name": [
+                ""
+            ],
+            "Default: Post author name": [
+                ""
+            ],
+            "Recipe Card SEO Settings": [
+                ""
+            ],
+            "Course": [
+                ""
+            ],
+            "The post category is added by default.": [
+                ""
+            ],
+            "Show Course": [
+                ""
+            ],
+            "Add course": [
+                ""
+            ],
+            "Type course and press Enter": [
+                ""
+            ],
+            "Show Cuisine": [
+                ""
+            ],
+            "Add cuisine": [
+                ""
+            ],
+            "Type cuisine and press Enter": [
+                ""
+            ],
+            "Show Cooking Method": [
+                ""
+            ],
+            "Add method": [
+                ""
+            ],
+            "Type cooking method and press Enter": [
+                ""
+            ],
+            "Recipe Key": [
+                ""
+            ],
+            "Show Recipe Key": [
+                ""
+            ],
+            "Add recipe keys": [
+                ""
+            ],
+            "Type recipe keys and press Enter": [
+                ""
+            ],
+            "Add keywords": [
+                ""
+            ],
+            "Type recipe keywords": [
+                ""
+            ],
+            "For multiple keywords add `,` after each keyword (ex: keyword, keyword, keyword). Note: The post tags is added by default.": [
+                ""
+            ],
+            "Recipe Card Details": [
+                ""
+            ],
+            "The following details are used for Schema Markup (Rich Snippets). If you want to hide some details in the post, just turn them off below.": [
+                ""
+            ],
+            "Structured Data Testing": [
+                ""
+            ],
+            "Automatically check Structured Data errors and warnings.": [
+                ""
+            ],
+            "Please enter value for required fields: ": [
+                ""
+            ],
+            "We recommend to add value for following fields: ": [
+                ""
+            ],
+            "We recommend to display following fields: ": [
+                ""
+            ],
+            "Steps": [
+                ""
+            ]
+        }
+    }
+}
